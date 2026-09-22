@@ -1,0 +1,3 @@
+$ git config --global user.name "KevinLin0430"
+$ git config --global user.email "f74151576@gs.ncku.edu.tw"
+$ git config -l
